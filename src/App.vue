@@ -240,6 +240,7 @@ li {
     border-radius: 6px;
     border-left: 4px solid #42b983;
     transition: all 0.3s;
+    color: black;
 }
 
 li.completed {
